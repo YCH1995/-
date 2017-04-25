@@ -1,3 +1,5 @@
-THis Repository has no meaning except test.<br>
+THis Repository has no meaning except testing.<br>
 LIke what I said.<br>
-Now I add a new branch.
+Now I add a new branch.<br>
+But I still need to test.<br>
+What if two branches match?
